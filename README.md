@@ -32,6 +32,7 @@ Awesome Peercoin <img src="https://peercoin.net/assets/img/logos/logo.svg" heigh
 ## Usefull articles and discussions
 
 * [The Evolution of Blockchain Governance](https://github.com/slentzen/awesome-peercoin) - Making a better way to organize decentralized projects for the future.
+* [Pay-2-Script-Hash](https://medium.com/@hrobeers/p2sh-bitcoin-script-puzzle-explained-26c8cb03ff90) - An explanation of how P2SH works in cryptocurrencies.
 
 ## Programming
 
@@ -51,6 +52,7 @@ Awesome Peercoin <img src="https://peercoin.net/assets/img/logos/logo.svg" heigh
 
 * [Whitepaper](https://peerassets.github.io/WhitePaper/) - The whitepaper describing how PeerAssets works
 * [Benefits of PeerAssets](https://medium.com/@Nagalim/the-benefits-of-peerassets-77bad7693925) - Explaining the benefits of PeerAssets against competitors.
+* [Mercator](http://137.74.40.81:4000/) - A PeerAssets block explorer.
 
 ## PeerAsset companies for investing in
 
