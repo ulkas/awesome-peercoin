@@ -28,7 +28,7 @@ Awesome Peercoin <img src="https://peercoin.net/assets/img/logos/logo.svg" heigh
 * [Orderbook depth](https://cryptrader.com/charts/btce/ppc/usd) - Watch the orderbook depth on btc-e in realtime.
 
 ## Software
-* [Peercoin wallet]() - The official Peercoin wallet.
+* [Peercoin wallet](https://peercoin.net/wallet) - The official Peercoin wallet.
 * [Archlinux Peercoin packages](https://aur.archlinux.org/packages/?K=ammon&SeB=m) - AUR packages maintained by the lead Peercoin developer.
 * [Peerbox](http://www.peerbox.me/) - Run a secure full Peercoin node on a Raspberry Pi for minting.
 
@@ -38,6 +38,13 @@ Awesome Peercoin <img src="https://peercoin.net/assets/img/logos/logo.svg" heigh
 
 * [The Evolution of Blockchain Governance](https://github.com/slentzen/awesome-peercoin) - Making a better way to organize decentralized projects for the future.
 * [Pay-2-Script-Hash](https://medium.com/@hrobeers/p2sh-bitcoin-script-puzzle-explained-26c8cb03ff90) - An explanation of how P2SH works in cryptocurrencies.
+
+### Research articles
+
+* [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf) - Comparing PoS to PoW as a consensus algorithm.
+* [Cryptocurrencies without Proof of Work](https://arxiv.org/pdf/1406.5694.pdf) - How PoS can help mitigate the security issues with PoS coins.
+* [Challenges for Bitcoin and cryptocurrencies](http://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf) - An analysis of the security concerns for PoS only coins.
+* [Majority is not enough: Bitcoin mining is vulnerable](https://arxiv.org/pdf/1311.0243v1.pdf) - Research shows that one can compromise Bitcoins network with less than 51% of the hashing power.
 
 ## Programming
 
