@@ -19,7 +19,8 @@ A curated list of awesome Peercoin articles, libraries and resources
 
 ## Basics
 
-* [Peercoin Whitepaper](https://peercoin.net/assets/paper/peercoin-paper.pdf)
+* [Peercoin Whitepaper](https://peercoin.net/assets/paper/peercoin-paper.pdf) - Original whitepaper where Sunny King introduces Proof-of-Stake for the first time.
+* [Building Spires in Sunny Kingdoms](https://medium.com/@Nagalim/building-spires-in-sunny-kingdoms-d126e214dd66) - An introduction to the history and philosophy of the Peercoin project.
 
 ## Documentation
 
