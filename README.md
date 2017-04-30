@@ -27,6 +27,11 @@ Awesome Peercoin <img src="https://peercoin.net/assets/img/logos/logo.svg" heigh
 * [Peercoin price chart](https://bitcoinwisdom.com/markets/btce/ppcusd) - A live chart of the Peercoin/USD price on btc-e
 * [Orderbook depth](https://cryptrader.com/charts/btce/ppc/usd) - Watch the orderbook depth on btc-e in realtime.
 
+## Software
+* [Peercoin wallet]() - The official Peercoin wallet.
+* [Archlinux Peercoin packages](https://aur.archlinux.org/packages/?K=ammon&SeB=m) - AUR packages maintained by the lead Peercoin developer.
+* [Peerbox](http://www.peerbox.me/) - Run a secure full Peercoin node on a Raspberry Pi for minting.
+
 ## Documentation
 
 ## Usefull articles and discussions
@@ -36,17 +41,30 @@ Awesome Peercoin <img src="https://peercoin.net/assets/img/logos/logo.svg" heigh
 
 ## Programming
 
+* [PeerScript Labs](https://github.com/hrobeers/peerscript-labs) - A testing grounds for new or would-be peercoin developers. Little puzzles to solve and learn P2SH.
+* [peercoin-rpc](https://github.com/peerchemist/peercoin_rpc) - Python library for rpc access to peercoin daemon. Minimalist and aimed at simple communication with ppcoind.
+* [Cryptotik](https://github.com/peerchemist/cryptotik) - API library for standard exchanges.
+
+## Peercoin Projects
+
+* [PARS](https://talk.peercoin.net/t/ann-peercoin-advanced-relay-subnet-p2sh-update-call-for-minting-power/4003) - A subnetwork operating on mainnet using a soft-forked client that allows for large txns. Because DDOS of this subnetwork is far less rewarding than DDOS of the whole peercoin network.
+* [PeerKeeper](https://talk.peercoin.net/t/ann-peerkeeper-backend-implementation-started/3913) - Thin wallet for minting in browser. Will be implemented with peerassets built in.
+* [P2TH](http://peerassets.github.io/P2TH/) - Tagging a txn using a publicly known address allows for rapid parsing of blockchain.
+
 # Resources
 
 ## Websites
 
 * [Official website](https://peercoin.net/) - The official Peercoin website.
 * [Peercoin chat](https://peercoin.chat) - The most active channel for daily talk about Peercoin
-* [Peercoin talk]()
+* [Peercoin talk](https://talk.peercoin.net/) - The official forum for Peercoin.
+* [Peer4commit](https://peer4commit.com/) - Fund different Peercoin projects.
 
 ## Community
 
 ## Tutorials
+
+* [PARS node setup](https://embeddedthought.com/2016/09/25/peercoin-advanced-relay-subnet-pars-node-setup/) - How to set up a Peercoin Advanced Relay Subnet node.
 
 # PeerAssets
 
