@@ -1,4 +1,4 @@
-#Awesome Peercoin <img src="https://peercoin.net/assets/img/logos/logo.svg" height="32" width="32">
+Awesome Peercoin <img src="https://peercoin.net/assets/img/logos/logo.svg" height="32" width="32">
 =============
 
 - [Awesome Peercoin](#awesome-peercoin)
