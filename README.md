@@ -27,28 +27,19 @@ A curated list of awesome Peercoin articles, libraries and resources
 
 ## Programming
 
-
 # Resources
 
 ## Websites
 
-
-
 ## Community
 
-
-
 ## Tutorials
-
-
-
-## Packages
-
-* [Stackage](https://www.stackage.org/) - is a stable source of Haskell packages, "Stable Hackage".
 
 # PeerAssets
 
 * [Whitepaper](https://peerassets.github.io/WhitePaper/) - The whitepaper describing how PeerAssets works
+* [Benefits of PeerAssets](https://medium.com/@Nagalim/the-benefits-of-peerassets-77bad7693925) - Explaining the benefits of PeerAssets against competitors.
+
 
 # License
 
